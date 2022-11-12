@@ -1,0 +1,798 @@
+{
+  "game": {
+    "@name": "Warface",
+    "@way2win": "Pay2Win",
+    "items": {
+      "weapons": {
+        "mainWeapons": {
+          "rifleman": {
+            "default": {
+              "mainWeapon": {
+                "@name": "M4A1",
+                "@needToRepair": "False",
+                "Damage": "65",
+                "firingRange": "11.5",
+                "magazineCapacity": "30",
+                "rateOfFire": "610",
+                "shootingPrinciple": "automatic"
+              }
+            },
+            "donate": {
+              "mainWeapon": {
+                "@name": "Enfield L85A2 Custom",
+                "@needToRepair": "True",
+                "Damage": "80",
+                "firingRange": "17,5",
+                "magazineCapacity": "30",
+                "rateOfFire": "620",
+                "shootingPrinciple": "shooting cut-offs"
+              }
+            },
+            "dlc": {
+              "mainWeapon": {
+                "@name": "SAI GRY AR-15 'Syndicate",
+                "@needToRepair": "True",
+                "Damage": "84",
+                "firingRange": "15",
+                "magazineCapacity": "40",
+                "rateOfFire": "600",
+                "shootingPrinciple": "automatic"
+              }
+            },
+            "in-game": {
+              "mainWeapon": {
+                "@name": "Daewoo K2",
+                "@needToRepair": "True",
+                "Damage": "70",
+                "firingRange": "14.5",
+                "magazineCapacity": "30",
+                "rateOfFire": "610",
+                "shootingPrinciple": "automatic"
+              }
+            },
+            "career": {
+              "mainWeapon": {
+                "@name": "Ak 103",
+                "@needToRepair": "True",
+                "Damage": "80",
+                "firingRange": "14",
+                "magazineCapacity": "30",
+                "rateOfFire": "600",
+                "shootingPrinciple": "automatic"
+              }
+            },
+            "festive": {
+              "mainWeapon": {
+                "@name": "NY ACR",
+                "@needToRepair": "True",
+                "Damage": "77",
+                "firingRange": "14",
+                "magazineCapacity": "30",
+                "rateOfFire": "700",
+                "shootingPrinciple": "automatic"
+              }
+            }
+          },
+          "medic": {
+            "default": {
+              "mainWeapon": {
+                "@name": "Remington Model 870",
+                "@needToRepair": "False",
+                "Damage": "600",
+                "firingRange": "4.5",
+                "magazineCapacity": "10",
+                "rateOfFire": "80",
+                "shootingPrinciple": "semiautomatic"
+              }
+            },
+            "donate": {
+              "mainWeapon": {
+                "@name": "Kel-Tec KS7",
+                "@needToRepair": "True",
+                "Damage": "680",
+                "firingRange": "7",
+                "magazineCapacity": "6",
+                "rateOfFire": "142",
+                "shootingPrinciple": "pump-action"
+              }
+            },
+            "dlc": {
+              "mainWeapon": {
+                "@name": "Chiappa Triple Threat 'Gold Dragon'",
+                "@needToRepair": "True",
+                "Damage": "750",
+                "firingRange": "6",
+                "magazineCapacity": "3",
+                "rateOfFire": "300",
+                "shootingPrinciple": "automatic"
+              }
+            },
+            "in-game": {
+              "mainWeapon": {
+                "@name": "SPAS-12",
+                "@needToRepair": "True",
+                "Damage": "700",
+                "firingRange": "6",
+                "magazineCapacity": "8",
+                "rateOfFire": "78",
+                "shootingPrinciple": "pump-action"
+              }
+            },
+            "career": {
+              "mainWeapon": {
+                "@name": "H.G.C. Custom",
+                "@needToRepair": "True",
+                "Damage": "660",
+                "firingRange": "5",
+                "magazineCapacity": "12",
+                "rateOfFire": "175",
+                "shootingPrinciple": "semiautomatic"
+              }
+            },
+            "festive": {
+              "mainWeapon": {
+                "@name": "Winchester M1897",
+                "@needToRepair": "True",
+                "Damage": "700",
+                "firingRange": "6",
+                "magazineCapacity": "5",
+                "rateOfFire": "98",
+                "shootingPrinciple": "pump-action"
+              }
+            }
+          },
+          "engineer": {
+            "default": {
+              "mainWeapon": {
+                "@name": "H-and-K MP5",
+                "@needToRepair": "False",
+                "Damage": "56",
+                "firingRange": "9",
+                "magazineCapacity": "30",
+                "rateOfFire": "830",
+                "shootingPrinciple": "automatic"
+              }
+            },
+            "donate": {
+              "mainWeapon": {
+                "@name": "SIG MPX SBR Custom",
+                "@needToRepair": "True",
+                "Damage": "85",
+                "firingRange": "10",
+                "magazineCapacity": "36",
+                "rateOfFire": "770",
+                "shootingPrinciple": "shooting cut-offs"
+              }
+            },
+            "dlc": {
+              "mainWeapon": {
+                "@name": "Magpul FMG-9 'Atlas'",
+                "@needToRepair": "True",
+                "Damage": "65",
+                "firingRange": "9",
+                "magazineCapacity": "45",
+                "rateOfFire": "1120",
+                "shootingPrinciple": "automatic"
+              }
+            },
+            "in-game": {
+              "mainWeapon": {
+                "@name": "Calico M960A",
+                "@needToRepair": "True",
+                "Damage": "65",
+                "firingRange": "9",
+                "magazineCapacity": "50",
+                "rateOfFire": "900",
+                "shootingPrinciple": "automatic"
+              }
+            },
+            "career": {
+              "mainWeapon": {
+                "@name": "Kriss Super V",
+                "@needToRepair": "True",
+                "Damage": "73",
+                "firingRange": "10",
+                "magazineCapacity": "30",
+                "rateOfFire": "770",
+                "shootingPrinciple": "automatic"
+              }
+            },
+            "festive": {
+              "mainWeapon": {
+                "@name": "XM8 Compact 'Zombi Killer'",
+                "@needToRepair": "True",
+                "Damage": "78",
+                "firingRange": "12",
+                "magazineCapacity": "30",
+                "rateOfFire": "780",
+                "shootingPrinciple": "automatic"
+              }
+            }
+          },
+          "sniper": {
+            "default": {
+              "mainWeapon": {
+                "@name": "СВД",
+                "@needToRepair": "False",
+                "Damage": "150",
+                "firingRange": "60",
+                "magazineCapacity": "12",
+                "rateOfFire": "260",
+                "shootingPrinciple": "semiautomatic"
+              }
+            },
+            "donate": {
+              "mainWeapon": {
+                "@name": "Steyr Scout",
+                "@needToRepair": "True",
+                "Damage": "350",
+                "firingRange": "35",
+                "magazineCapacity": "5",
+                "rateOfFire": "50",
+                "shootingPrinciple": "bolt action"
+              }
+            },
+            "dlc": {
+              "mainWeapon": {
+                "@name": "M14 Crazy Horse 'Absolute'",
+                "@needToRepair": "True",
+                "Damage": "350",
+                "firingRange": "70",
+                "magazineCapacity": "15",
+                "rateOfFire": "140",
+                "shootingPrinciple": "automatic"
+              }
+            },
+            "in-game": {
+              "mainWeapon": {
+                "@name": "XM8 Sharpshooter",
+                "@needToRepair": "True",
+                "Damage": "160",
+                "firingRange": "60",
+                "magazineCapacity": "16",
+                "rateOfFire": "280",
+                "shootingPrinciple": "automatic"
+              }
+            },
+            "career": {
+              "mainWeapon": {
+                "@name": "AT 308",
+                "@needToRepair": "True",
+                "Damage": "350",
+                "firingRange": "80",
+                "magazineCapacity": "10",
+                "rateOfFire": "40",
+                "shootingPrinciple": "bolt action"
+              }
+            },
+            "festive": {
+              "mainWeapon": {
+                "@name": "NY AS50",
+                "@needToRepair": "True",
+                "Damage": "300",
+                "firingRange": "70",
+                "magazineCapacity": "5",
+                "rateOfFire": "215",
+                "shootingPrinciple": "semiautomatic"
+              }
+            }
+          }
+        },
+        "additionalWeapon": {
+          "default": {
+            "additionalWeapon": {
+              "@name": "Browning High Power",
+              "@needToRepair": "False",
+              "Damage": "65",
+              "firingRange": "9",
+              "magazineCapacity": "15",
+              "rateOfFire": "285",
+              "shootingPrinciple": "Semiautomatic"
+            }
+          },
+          "donate": {
+            "additionalWeapon": {
+              "@name": "TEC-9",
+              "@needToRepair": "True",
+              "Damage": "65",
+              "firingRange": "9",
+              "magazineCapacity": "26",
+              "rateOfFire": "680",
+              "shootingPrinciple": "Automatic"
+            }
+          },
+          "dlc": {
+            "additionalWeapon": {
+              "@name": "Maxim 9 «Fobos»",
+              "@needToRepair": "True",
+              "Damage": "120",
+              "firingRange": "12",
+              "magazineCapacity": "15",
+              "rateOfFire": "290",
+              "shootingPrinciple": "Semiautomatic"
+            }
+          },
+          "in-game": {
+            "additionalWeapon": {
+              "@name": "Mateba Autorevolver",
+              "@needToRepair": "True",
+              "Damage": "140",
+              "firingRange": "12",
+              "magazineCapacity": "6",
+              "rateOfFire": "215",
+              "shootingPrinciple": "Revolver"
+            }
+          },
+          "career": {
+            "additionalWeapon": {
+              "@name": "Colt Python Elite",
+              "@needToRepair": "True",
+              "Damage": "135",
+              "firingRange": "10",
+              "magazineCapacity": "6",
+              "rateOfFire": "230",
+              "shootingPrinciple": "Revolver"
+            }
+          },
+          "festive": {
+            "additionalWeapon": {
+              "@name": "Luger",
+              "@needToRepair": "True",
+              "Damage": "100",
+              "firingRange": "11",
+              "magazineCapacity": "8",
+              "rateOfFire": "280",
+              "shootingPrinciple": "Semiautomatic"
+            }
+          }
+        },
+        "meleeWeapons": {
+          "default": {
+            "meleeWeapon": {
+              "@name": "Executor",
+              "@needToRepair": "False",
+              "anyBonuses": "None"
+            }
+          },
+          "donate": {
+            "meleeWeapon": {
+              "@name": "Katana",
+              "@needToRepair": "True",
+              "anyBonuses": "Высокая дальность атаки"
+            }
+          },
+          "dlc": {
+            "meleeWeapon": {
+              "@name": "Tomahawk Gerber 'Gold Dragon'",
+              "@needToRepair": "True",
+              "anyBonuses": "Обладает повышенным радиусом поражения и увеличенным уроном"
+            }
+          },
+          "in-game": {
+            "meleeWeapon": {
+              "@name": "Ultramarine",
+              "@needToRepair": "True",
+              "anyBonuses": "Обладает повышенным радиусом поражения"
+            }
+          },
+          "career": {
+            "meleeWeapon": {
+              "@name": "M48 Bowie",
+              "@needToRepair": "True",
+              "anyBonuses": "Дополнительная атака позволяет убивать противников в жилетах с защитой от ударов в ближнем бою"
+            }
+          },
+          "festive": {
+            "meleeWeapon": {
+              "@name": "Killer icicle",
+              "@needToRepair": "True",
+              "anyBonuses": "Обладает повышенным радиусом поражения"
+            }
+          }
+        },
+        "explosives": {
+          "mine": {
+            "mine": [
+              {
+                "@name": "m18"
+              },
+              {
+                "@name": "Anti-personnel"
+              },
+              {
+                "@name": "NewYear"
+              },
+              {
+                "@name": "Banan"
+              }
+            ]
+          },
+          "grenades": {
+            "smoke": {
+              "smoke": [
+                {
+                  "@color": "white"
+                },
+                {
+                  "@color": "blue"
+                },
+                {
+                  "@color": "red"
+                },
+                {
+                  "@color": "goldDragon"
+                }
+              ]
+            },
+            "light": {
+              "m84": null
+            },
+            "shrapnel": {
+              "shrapnel": [
+                {
+                  "@name": "m26"
+                },
+                {
+                  "@name": "FG4"
+                },
+                {
+                  "@name": "NewYear"
+                },
+                {
+                  "@name": "Snowball"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "equipment": {
+        "helmets": {
+          "default": {
+            "helmet": {
+              "@name": "Standart",
+              "@needToRepair": "False",
+              "@SameStatsForAllClasses": "True",
+              "@OneMaskForAllClasses": "False",
+              "headProtection": "+10%"
+            }
+          },
+          "donate": {
+            "helmet": {
+              "@name": "Leader",
+              "@NeedToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OneMaskForAllClasses": "False",
+              "headProtection": "+60%",
+              "recoverHp": "8 оз после 4 секунд без урона"
+            }
+          },
+          "dlc": {
+            "helmet": {
+              "@name": "Atlas",
+              "@NeedToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OneMaskForAllClasses": "False",
+              "headProtection": "+60%",
+              "protectionFromBlinding": "+40%",
+              "mineDetection": "7 метров"
+            }
+          },
+          "in-game": {
+            "helmet": [
+              {
+                "@name": "Improved",
+                "@NeedToRepair": "True",
+                "@SameStatsForAllClasses": "True",
+                "@OneMaskForAllClasses": "False",
+                "headProtection": "+20%"
+              },
+              {
+                "@name": "Tournament mask",
+                "@NeedToRepair": "True",
+                "@SameStatsForAllClasses": "True",
+                "@OneMaskForAllClasses": "True",
+                "protectionFromBlinding": "+40%",
+                "mineDetection": "10 метров"
+              }
+            ]
+          },
+          "career": {
+            "helmet": {
+              "@name": "Tactics",
+              "@NeedToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OneMaskForAllClasses": "False",
+              "headProtection": "+20%",
+              "protectionFromBlinding": "+40%"
+            }
+          },
+          "festive": {
+            "helmet": {
+              "@name": "ForTheVictoryDay",
+              "@NeedToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OneMaskForAllClasses": "False",
+              "headProtection": "+10%",
+              "protectionFromBlinding": "+40%"
+            }
+          }
+        },
+        "bulletproofVest": {
+          "default": {
+            "vest": {
+              "@name": "Standart",
+              "@needToRepair": "False",
+              "@SameStatsForAllClasses": "True",
+              "@OneVestForAllClasses": "True",
+              "numberOfArmorPoints": "110"
+            }
+          },
+          "donate": {
+            "vest": {
+              "@name": "Titan2",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OneVestForAllClasses": "True",
+              "protectsAgainstASingleHitToTheBody": "True",
+              "numberOfArmorPoints": "85",
+              "explosionProtection": "+20%"
+            }
+          },
+          "dlc": {
+            "vest": {
+              "@name": "K.I.W.I.",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OneVestForAllClasses": "True",
+              "SpeedOfChangingItems": "+20%",
+              "shockProtection": "+20%"
+            }
+          },
+          "in-game": {
+            "vest": {
+              "@name": "Light Body Armor",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OneVestForAllClasses": "True",
+              "SpeedOfChangingItems": "+20%",
+              "shockProtection": "+20%"
+            }
+          },
+          "career": {
+            "vest": {
+              "@name": "Spectrum",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "False",
+              "@OneVestForAllClasses": "False",
+              "classes": {
+                "rifleman": {
+                  "numberOfArmorPoints": "160",
+                  "SpeedOfChangingItems": "+20%"
+                },
+                "medic": {
+                  "numberOfArmorPoints": "150",
+                  "shockProtection": "+20%",
+                  "explosionProtection": "+10%"
+                },
+                "engineer": {
+                  "numberOfArmorPoints": "155",
+                  "explosionProtection": "+20%"
+                },
+                "sniper": {
+                  "totalAmmo": "+50%",
+                  "numberOfArmorPoints": "130",
+                  "shockProtection": "+15%"
+                }
+              }
+            }
+          },
+          "festive": {
+            "vest": {
+              "@name": "Halloween",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OneVestForAllClasses": "True",
+              "numberOfArmorPoints": "140",
+              "shockProtection": "+20%",
+              "explosionProtection": "+25%"
+            }
+          }
+        },
+        "gloves": {
+          "default": {
+            "gloves": {
+              "@name": "Standart",
+              "@needToRepair": "False",
+              "@SameStatsForAllClasses": "True",
+              "@OnePairOfGlovesForAllClasses": "True"
+            }
+          },
+          "donate": {
+            "gloves": {
+              "@name": "Kevlar",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OnePairOfGlovesForAllClasses": "True",
+              "CooldownRate": "+20%",
+              "WeakAttackRadius": "+20%",
+              "ToLogInToAWeakAttack": "-20%",
+              "TimeToEnterAStrongAttack": "-40%"
+            }
+          },
+          "dlc": {
+            "gloves": {
+              "@name": "Syndicate",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OnePairOfGlovesForAllClasses": "True",
+              "HandProtection": "+20%",
+              "Accuracy": "+10%"
+            }
+          },
+          "in-game": {
+            "gloves": {
+              "@name": "Assault",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OnePairOfGlovesForAllClasses": "True",
+              "SpeedOfChangingItems": "+20%"
+            }
+          },
+          "career": {
+            "gloves": {
+              "@name": "Rare",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OnePairOfGlovesForAllClasses": "False",
+              "CooldownRate": "+20%",
+              "SpeedOfChangingItems": "+20%"
+            }
+          },
+          "festive": {
+            "gloves": {
+              "@name": "NewYear",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OnePairOfGlovesForAllClasses": "True",
+              "CooldownRate": "+20%",
+              "SpeedOfChangingItems": "+20%"
+            }
+          }
+        },
+        "boots": {
+          "default": {
+            "boots": {
+              "@name": "Standart",
+              "@needToRepair": "False",
+              "@SameStatsForAllClasses": "True",
+              "@OnePairOfGlovesForAllClasses": "True",
+              "theSpeedOfTheDash": "+5%",
+              "theRangeOfTheDash": "+5%"
+            }
+          },
+          "donate": {
+            "boots": {
+              "@name": "Tight",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OnePairOfGlovesForAllClasses": "True",
+              "theSpeedOfTheDash": "+10%",
+              "theRangeOfTheDash": "+15%",
+              "theRangeOfTheTackles": "+30%"
+            }
+          },
+          "dlc": {
+            "boots": {
+              "@name": "Atlas",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OnePairOfGlovesForAllClasses": "True",
+              "theSpeedOfTheDash": "+16%",
+              "theRangeOfTheDash": "+50%",
+              "theRangeOfTheTackles": "+15%",
+              "CrouchingSpeed": "+15%"
+            }
+          },
+          "in-game": {
+            "boots": {
+              "@name": "Athletic",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OnePairOfGlovesForAllClasses": "True",
+              "theSpeedOfTheDash": "+10%",
+              "theRangeOfTheDash": "+40%"
+            }
+          },
+          "career": {
+            "boots": {
+              "@name": "Army",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OnePairOfGlovesForAllClasses": "True",
+              "theSpeedOfTheDash": "+15%",
+              "theRangeOfTheDash": "+10%",
+              "CrouchingSpeed": "+20%"
+            }
+          },
+          "festive": {
+            "boots": {
+              "@name": "Tarpaulin",
+              "@needToRepair": "True",
+              "@SameStatsForAllClasses": "True",
+              "@OnePairOfGlovesForAllClasses": "True",
+              "theSpeedOfTheDash": "+5%",
+              "theRangeOfTheDash": "+45%"
+            }
+          }
+        }
+      },
+      "trinket": {
+        "jollyRoger": null,
+        "starfish": null
+      }
+    },
+    "achievements": {
+      "token": {
+        "token": [
+          {
+            "@name": "topMedic"
+          },
+          {
+            "@name": "topRifle"
+          }
+        ]
+      },
+      "badge": {
+        "badge": [
+          {
+            "@name": "topSniper"
+          },
+          {
+            "@name": "topEngineer"
+          }
+        ]
+      },
+      "stripe": {
+        "stripe": [
+          {
+            "@name": "tank"
+          },
+          {
+            "@name": "mvp"
+          }
+        ]
+      }
+    },
+    "skins": {
+      "absolute": {
+        "@SameStatsForAllClasses": "True",
+        "@SameLookForAllClasses": "False",
+        "skinBonus": {
+          "theRangeOfTheDash": "None"
+        }
+      },
+      "womenNano": {
+        "@SameStatsForAllClasses": "True",
+        "@SameLookForAllClasses": "False",
+        "skinBonus": {
+          "theRangeOfTheDash": "+50%"
+        }
+      },
+      "COS": {
+        "@SameStatsForAllClasses": "True",
+        "@SameLookForAllClasses": "False",
+        "skinBonus": {
+          "theRangeOfTheDash": "+40%"
+        }
+      },
+      "Samurai": {
+        "@SameStatsForAllClasses": "True",
+        "@SameLookForAllClasses": "False",
+        "skinBonus": {
+          "theRangeOfTheDash": "+60%"
+        }
+      }
+    }
+  }
+}
